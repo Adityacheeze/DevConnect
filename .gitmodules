@@ -1,0 +1,6 @@
+[submodule "DevConnect-backend"]
+	path = DevConnect-backend
+	url = https://github.com/Adityacheeze/DevConnect-backend.git
+[submodule "DevConnect-frontend"]
+	path = DevConnect-frontend
+	url = https://github.com/Adityacheeze/DevConnect-frontend.git
